@@ -17,14 +17,6 @@ This E-commerce project uses the following technologies:
 ### Installation and Setup
 Follow these steps to set up and run the project locally:
 
-1. *Clone the repository*
 
-   bash
-   git clone https://github.com/yourusername/project-name.git
-   
-2. **Clone the repository**
-
-   bash
-   git clone https://github.com/yourusername/project-name.git
 
 
