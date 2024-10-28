@@ -27,8 +27,7 @@ Follow these steps to set up and run the project locally:
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/FashionTrend.git
-cd FashionTrend
+https://github.com/Nandini6803/FashionTrend2.git
 ```
 ### Step 2: Create a Virtual Environment
 
